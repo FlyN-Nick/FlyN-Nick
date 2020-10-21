@@ -1,4 +1,5 @@
 # Hey 👋, my name is Nicholas Assaderaghi, aka. FlyN-Nick
+### I'm just a kid in highschool who's been coding for a few years now.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FlyN-Nick&count_private=true&show_icons=true&bg_color=30,3f5efb,fc466b&title_color=fff&text_color=fff&icon_color=00ffe1&hide_border=trueinclude_all_commits=true" />
 </a>
@@ -16,6 +17,6 @@
 - 👯 I’m looking to collaborate on: anything really. 
 - 🤔 I’m looking for help with: nothing currently. 
 - 💬 Ask me about: why I love TS and C#. 
-- 📫 How to reach me: nickassader@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: my favorite sports are Taekwondo and Volleyball. 
+- 📫 How to reach me: nickassader@gmail.com.
+- 😄 Pronouns: he/him.
+- ⚡ Fun fact: I'm a top 500 copa lucioball player (weird flex I'm aware). 
