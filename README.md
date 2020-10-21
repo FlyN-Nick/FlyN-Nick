@@ -1,5 +1,7 @@
 # Hey 👋, my name is Nicholas Assaderaghi, aka. FlyN-Nick
 ### I'm just a kid in highschool who's been coding for a few years now.
+### Check out my [2D games](https://flyn-nick.itch.io/ "FlyN Nick's Itch.io Profile")!
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FlyN-Nick&count_private=true&show_icons=true&bg_color=30,3f5efb,fc466b&title_color=fff&text_color=fff&icon_color=00ffe1&hide_border=trueinclude_all_commits=true" />
 </a>
