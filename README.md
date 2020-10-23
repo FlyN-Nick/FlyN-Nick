@@ -1,4 +1,4 @@
-# Hey 👋, my name is Nicholas Assaderaghi, aka. FlyN-Nick
+# Hey 👋, my name is Nicholas Assaderaghi aka FlyN-Nick
 ### I'm just a kid in highschool who's been coding for a few years now.
 ### Check out my [2D games](https://flyn-nick.itch.io/ "FlyN Nick's Itch.io Profile")!
 
