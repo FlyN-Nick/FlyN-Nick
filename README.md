@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning: 3D game-dev with Unity.
 - 👯 I’m looking to collaborate on: anything really. 
 - 🤔 I’m looking for help with: nothing currently. 
-- 💬 Ask me about: why I love TS and C#. 
+- 💬 Ask me about: why I love C#, TS, & Swift. 
 - 📫 How to reach me: nickassader@gmail.com.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I'm a top 500 copa lucioball player (weird flex I'm aware). 
