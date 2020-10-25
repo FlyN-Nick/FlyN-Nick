@@ -2,12 +2,10 @@
 ### I'm just a kid in highschool who's been learning to code for a few years now.
 ### Check out my [2D games](https://flyn-nick.itch.io/ "FlyN Nick's Itch.io Profile")!
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FlyN-Nick&count_private=true&show_icons=true&bg_color=30,3f5efb,fc466b&title_color=fff&text_color=fff&icon_color=00ffe1&hide_border=trueinclude_all_commits=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlyN-Nick&bg_color=30,3f5efb,fc466b&title_color=fff&text_color=fff&exclude_repo=lineChecker&langs_count=9&hide_border=true&hide=ShaderLab&layout=compact&card_width=445&custom_title=FlyN-Nick's%20Most%20Used%20Languages" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=FlyN-Nick&count_private=true&show_icons=true&bg_color=30,3f5efb,fc466b&title_color=fff&text_color=fff&icon_color=00ffe1&hide_border=trueinclude_all_commits=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlyN-Nick&bg_color=30,3f5efb,fc466b&title_color=fff&text_color=fff&exclude_repo=lineChecker&langs_count=9&hide_border=true&hide=ShaderLab&layout=compact&card_width=445&custom_title=FlyN-Nick's%20Most%20Used%20Languages"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=FlyN_Nick&bg_color=30,3f5efb,fc466b&title_color=fff&text_color=fff&custom_title=FlyN-Nick's%20WakaTime%20Stats"/>
+
 
 <!--
 [![FlyN-Nick's Github Stats](https://github-readme-stats.vercel.app/api?username=FlyN-Nick&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
