@@ -11,10 +11,14 @@
 <a href="https://github-readme-stats.vercel.app/api/wakatime?username=FlyN_Nick&bg_color=30,3f5efb,fc466b&title_color=fff&text_color=fff&custom_title=FlyN-Nick's%20WakaTime%20Stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=FlyN_Nick&bg_color=30,3f5efb,fc466b&title_color=fff&text_color=fff&custom_title=FlyN-Nick's%20WakaTime%20Stats"/>
 </a>
+<a href="https://github-profile-trophy.vercel.app/?username=FlyN-Nick&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=dracula">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=FlyN-Nick&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=dracula"/>
+</a>
 
 <!--
 [![FlyN-Nick's Github Stats](https://github-readme-stats.vercel.app/api?username=FlyN-Nick&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 [![FlyN-Nick's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlyN-Nick&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=FlyN-Nick&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 -->
 
 - 🔭 I’m currently working on: a social media app with Ionic.
