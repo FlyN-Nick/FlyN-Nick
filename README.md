@@ -23,8 +23,6 @@
 
 - 🔭 I’m currently working on: a social media app with Ionic.
 - 🌱 I’m currently learning: 3D game-dev with Unity.
-- 👯 I’m looking to collaborate on: anything really. 
-- 🤔 I’m looking for help with: nothing currently. 
 - 💬 Ask me about: why I love C#, TS, & Swift. 
 - 📫 How to reach me: nickassader@gmail.com.
 - 😄 Pronouns: he/him.
