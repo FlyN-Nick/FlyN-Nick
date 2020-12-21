@@ -27,3 +27,6 @@
 - 📫 How to reach me: nickassader@gmail.com.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I'm a top 500 copa lucioball player (weird flex I'm aware). 
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=fc466b&style=plastic&label=Profile+Views)
+![](https://hit.yhype.me/github/profile?user_id=43420132)
