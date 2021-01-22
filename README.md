@@ -8,9 +8,11 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=FlyN-Nick&bg_color=30,3f5efb,fc466b&title_color=fff&text_color=fff&exclude_repo=lineChecker&langs_count=9&hide_border=true&hide=ShaderLab&layout=compact&card_width=445&custom_title=FlyN-Nick's%20Most%20Used%20Languages">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlyN-Nick&bg_color=30,3f5efb,fc466b&title_color=fff&text_color=fff&exclude_repo=lineChecker&langs_count=9&hide_border=true&hide=ShaderLab&layout=compact&card_width=445&custom_title=FlyN-Nick's%20Most%20Used%20Languages"/>
 </a>
+<!--
 <a href="https://github-readme-stats.vercel.app/api/wakatime?username=FlyN_Nick&bg_color=30,3f5efb,fc466b&title_color=fff&text_color=fff&custom_title=FlyN-Nick's%20WakaTime%20Stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=FlyN_Nick&bg_color=30,3f5efb,fc466b&title_color=fff&text_color=fff&custom_title=FlyN-Nick's%20WakaTime%20Stats"/>
 </a>
+-->
 <a href="https://hacked-github-stat-trophies.vercel.app/?username=FlyN-Nick&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=dracula&margin-w=18&margin-h=10">
   <img align="center" src="https://hacked-github-stat-trophies.vercel.app/?username=FlyN-Nick&column=4&row=1&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=dracula&margin-w=18&margin-h=10"/>
 </a>
