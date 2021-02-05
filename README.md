@@ -26,7 +26,7 @@
 - 🔭 I’m currently working on: a social media app with Ionic.
 - 🌱 I’m currently learning: 3D game-dev with Unity.
 - 💬 Ask me about: why I love C#, TS, & Swift. 
-- 📫 How to reach me: nickassader@gmail.com.
+- 📫 How to reach me: nicassa@nuevaschool.org.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I'm a top 500 copa lucioball player (weird flex I'm aware). 
 
