@@ -23,10 +23,10 @@
 [![FlyN-Nick's Stat Trophies](https://hacked-github-stat-trophies.vercel.app/?username=FlyN-Nick&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=dracula&margin-w=18&margin-h=10&title=MultipleLanguage,AllSuperRank,Commit,Stars,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 -->
 
-- 🔭 I’m currently working on: a social media app with Ionic.
+- 🔭 I’m currently working on: an interactive thesaurus [(corsaur.us)](https://corsaur.us).
 - 🌱 I’m currently learning: 3D game-dev with both Unity and Unreal.
-- 💬 Ask me about: why I love C#, TS, & Swift. 
-- 📫 How to reach me: nicassa@nuevaschool.org.
+- 💬 Ask me about: why I love C# and TS. 
+- 📫 How to reach me: <nicassa@nuevaschool.org>.
 - 😄 Pronouns: he/him.
 
 ![](https://komarev.com/ghpvc/?username=FlyN-Nick&color=fc466b&style=plastic&label=Profile+Views)
