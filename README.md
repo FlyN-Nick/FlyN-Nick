@@ -29,5 +29,7 @@
 - 📫 How to reach me: <nicassa@nuevaschool.org>.
 - 😄 Pronouns: he/him.
 
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=random)
+
 ![](https://komarev.com/ghpvc/?username=FlyN-Nick&color=fc466b&style=plastic&label=Profile+Views)
 ![](https://hit.yhype.me/github/profile?user_id=43420132)
