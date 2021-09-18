@@ -1,6 +1,6 @@
 # Hey 👋, my name is Nicholas Assaderaghi aka FlyN-Nick
 ### I'm a highschooler who's been coding for several years.
-### Check out my [(primarily) 2D games](https://flyn-nick.itch.io/ "FlyN Nick's Itch.io Profile")!
+### Check out my [2D games](https://flyn-nick.itch.io/ "FlyN Nick's Itch.io Profile")!
 
 <a href="https://github-readme-stats.vercel.app/api?username=FlyN-Nick&count_private=true&show_icons=true&bg_color=30,3f5efb,fc466b&title_color=fff&text_color=fff&icon_color=00ffe1&hide_border=trueinclude_all_commits=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FlyN-Nick&count_private=true&show_icons=true&bg_color=30,3f5efb,fc466b&title_color=fff&text_color=fff&icon_color=00ffe1&hide_border=trueinclude_all_commits=true"/>
@@ -23,9 +23,7 @@
 [![FlyN-Nick's Stat Trophies](https://hacked-github-stat-trophies.vercel.app/?username=FlyN-Nick&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=dracula&margin-w=18&margin-h=10&title=MultipleLanguage,AllSuperRank,Commit,Stars,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 -->
 
-- 🔭 I’m currently working on: an interactive thesaurus [(corsaur.us)](https://corsaur.us).
-- 🌱 I’m currently learning: 3D game-dev with both Unity and Unreal.
-- 💬 Ask me about: why I love C# and TS. 
+- 💬 Ask me about: why I love TS. 
 - 📫 How to reach me: <nicassa@nuevaschool.org>.
 - 😄 Pronouns: he/him.
 
