@@ -24,6 +24,7 @@
 -->
 
 - 💬 Ask me about: why I love TS. 
+- 🖊️ Currently working on: a collection of picoGym writeups.
 - 📫 How to reach me: <nicassa@nuevaschool.org>.
 - 😄 Pronouns: he/him.
 
