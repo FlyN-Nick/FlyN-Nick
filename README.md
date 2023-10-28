@@ -1,7 +1,7 @@
 # Hi 👋, my name is Nicholas Assaderaghi aka FlyN-Nick
 
-<a href="https://github-readme-stats.vercel.app/api?username=FlyN-Nick&count_private=true&show_icons=true&bg_color=30,3f5efb,fc466b&title_color=fff&text_color=fff&icon_color=00ffe1&hide_border=trueinclude_all_commits=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FlyN-Nick&count_private=true&show_icons=true&bg_color=30,3f5efb,fc466b&title_color=fff&text_color=fff&icon_color=00ffe1&hide_border=trueinclude_all_commits=true"/>
+<a href="https://github-readme-stats.vercel.app/api?username=FlyN-Nick&count_private=true&show_icons=true&bg_color=30,3f5efb,fc466b&title_color=fff&text_color=fff&icon_color=00ffe1&hide_border=true&include_all_commits=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FlyN-Nick&count_private=true&show_icons=true&bg_color=30,3f5efb,fc466b&title_color=fff&text_color=fff&icon_color=00ffe1&hide_border=true&include_all_commits=true"/>
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=FlyN-Nick&bg_color=30,3f5efb,fc466b&title_color=fff&text_color=fff&exclude_repo=lineChecker&langs_count=9&hide_border=true&hide=ShaderLab&layout=compact&card_width=445&custom_title=FlyN-Nick's%20Most%20Used%20Languages">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlyN-Nick&bg_color=30,3f5efb,fc466b&title_color=fff&text_color=fff&exclude_repo=lineChecker&langs_count=9&hide_border=true&hide=ShaderLab&layout=compact&card_width=445&custom_title=FlyN-Nick's%20Most%20Used%20Languages"/>
