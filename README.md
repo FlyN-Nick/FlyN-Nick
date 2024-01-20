@@ -22,9 +22,9 @@
 -->
 
 - 💬 Ask me about: why I love TS. 
-- 🖊️ Currently working on: a collection of picoGym writeups.
+- 🖊️ Currently working on: learning vim and c.
 - 📫 How to reach me: <nicholas.assaderaghi@columbia.edu>.
-- 😄 Pronouns: he/she.
+- 😄 Pronouns: he/they.
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=random)
 
